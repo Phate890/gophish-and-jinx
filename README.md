@@ -1,4 +1,4 @@
-# evilgophish
+# Gophsih and evilginx2
 
 Combination of [evilginx2](https://github.com/kgretzky/evilginx2) and [GoPhish](https://github.com/gophish/gophish) combined with some automation and other resources (thanks twitter).
 
